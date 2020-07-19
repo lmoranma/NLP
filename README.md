@@ -1,4 +1,4 @@
-# NLP
+# NLP Laura Morán
 
 La práctica se compone de 3 notebooks:
 
